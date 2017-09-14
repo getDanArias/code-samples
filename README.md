@@ -10,6 +10,7 @@
 
 ## Code Samples
 
+* [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://dh-calendar-widget.firebaseapp.com/))
 * [The Perfect Gulp](https://decauniversity.github.io/Gulping/) Page that showcases my Gulpfile.js. Click on the banner to be taken to the file.
 * ngsource: Interface of ngfinder ([repo](https://github.com/DecaHub/ngsource))([package](https://www.npmjs.com/package/ngsource))
 * ngfinder: My first npm package! 🔥  ([repo](https://github.com/DecaHub/ngfinder)) ([package](https://www.npmjs.com/package/ngfinder))

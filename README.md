@@ -1,6 +1,6 @@
 ## My Projects (ongoing)
 
-* [DecaHub.com](http://www.decahub.com/): My personal website
+* [DanArias.com](http://www.decahub.com/): My personal website
 * [Critter Chase](https://critterchase.com/): A cute homage to PacMan involving mice and kitties.
 * Stuff Admin: Inventory Management Progressive Web App using ReactJS and NodeJS.
 * League of Techies: Complex Web Application that connects Technologists engineered in ReactJS, NodeJS, custom CSS through SCSS and powered through Google Cloud and AWS services. 

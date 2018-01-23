@@ -10,6 +10,7 @@
 
 ## Code Samples
 
+* [ Go ] [Tic Tac Go!](https://github.com/developergenome/dan-lab/blob/master/experiments/go/tictactoe/main.go): CLI Tic Tac Toe game written in Go. 
 * [Taylor Series](https://gist.github.com/getDanArias/a838f517da7b09f104f99e9ebe42c8d2): Using Functional JavaScript to implement Taylor Series Trig Functions. 
 * [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://dh-calendar-widget.firebaseapp.com/))
 * [The Perfect Gulp](https://decauniversity.github.io/Gulping/) Page that showcases my Gulpfile.js. Click on the banner to be taken to the file.

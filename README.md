@@ -10,11 +10,11 @@
 
 ## Code Samples
 
-* [ Go ] [Tic Tac Go!](https://github.com/developergenome/dan-lab/blob/master/experiments/go/tictactoe/main.go): CLI Tic Tac Toe game written in Go. 
+* [ Go ] [Tic Tac Go!](https://github.com/developergenome/dan-lab/blob/master/experiments/go/tictactoe/main.go): CLI Tic Tac Toe game written in Go.  
 
 
 * [ AngularJS ] Employee Dashboard: Showcases a sortable table that reads data from a JSON file along with graphical representation of the data using the Highcharts library. ([repo](https://github.com/getDanArias/EmployeeDashboard-AngularJS))([demo](https://getdanarias.github.io/EmployeeDashboard-AngularJS/))
-
+* [ AngularJS ] Taskr: Interactive To-Do List that uses animations to show task progress. ([repo](https://github.com/getDanArias/taskr))([demo](https://getdanarias.github.io/taskr/))
 
 * [ React ] [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://dh-calendar-widget.firebaseapp.com/))
 

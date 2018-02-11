@@ -11,6 +11,7 @@
 ## Code Samples
 
 * [ Go ] [Tic Tac Go!](https://github.com/developergenome/dan-lab/blob/master/experiments/go/tictactoe/main.go): CLI Tic Tac Toe game written in Go. 
+* [ AngularJS ] Employee Dashboard: Showcases a sortable table that reads data from a JSON file along with graphical representation of the data using the Highcharts library. ([repo](https://github.com/getDanArias/EmployeeDashboard-AngularJS))([demo](https://getdanarias.github.io/EmployeeDashboard-AngularJS/))
 * [ JavaScript ] [Taylor Series](https://gist.github.com/getDanArias/a838f517da7b09f104f99e9ebe42c8d2): Using Functional JavaScript to implement Taylor Series Trig Functions. 
 * [ JavaScript ] [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://dh-calendar-widget.firebaseapp.com/))
 * [ JavaScript ] [The Perfect Gulp](https://decauniversity.github.io/Gulping/) Page that showcases my Gulpfile.js. Click on the banner to be taken to the file.

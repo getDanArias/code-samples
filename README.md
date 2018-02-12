@@ -10,6 +10,8 @@
 
 ## Code Samples
 
+* [ Angular ][ TypeScript ] RxJS Operators Dashboard: ([repo](https://github.com/getDanArias/RxJS-Operators))
+
 * [ Go ] [Tic Tac Go!](https://github.com/developergenome/dan-lab/blob/master/experiments/go/tictactoe/main.go): CLI Tic Tac Toe game written in Go.  
 
 

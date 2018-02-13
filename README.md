@@ -19,6 +19,7 @@
 * [ AngularJS ] Taskr: Interactive To-Do List that uses animations to show task progress. ([repo](https://github.com/getDanArias/taskr))([demo](https://getdanarias.github.io/taskr/))
 
 * [ React ] [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://getdanarias.github.io/React-Calendar-Widget/))
+* [ React ] [Developer Genome Project](https://developergenome.com/)
 
 
 * [ JavaScript ] [Taylor Series](https://gist.github.com/getDanArias/a838f517da7b09f104f99e9ebe42c8d2): Using Functional JavaScript to implement Taylor Series Trig Functions. 

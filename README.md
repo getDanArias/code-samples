@@ -18,7 +18,7 @@
 * [ AngularJS ] Employee Dashboard: Showcases a sortable table that reads data from a JSON file along with graphical representation of the data using the Highcharts library. ([repo](https://github.com/getDanArias/EmployeeDashboard-AngularJS))([demo](https://getdanarias.github.io/EmployeeDashboard-AngularJS/))
 * [ AngularJS ] Taskr: Interactive To-Do List that uses animations to show task progress. ([repo](https://github.com/getDanArias/taskr))([demo](https://getdanarias.github.io/taskr/))
 
-* [ React ] [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://dh-calendar-widget.firebaseapp.com/))
+* [ React ] [Calendar Widget](https://dh-calendar-widget.firebaseapp.com/): Created with ReactJS. ([repo](https://github.com/DecaHub/dh-calendar-widget))([demo](https://getdanarias.github.io/React-Calendar-Widget/))
 
 
 * [ JavaScript ] [Taylor Series](https://gist.github.com/getDanArias/a838f517da7b09f104f99e9ebe42c8d2): Using Functional JavaScript to implement Taylor Series Trig Functions. 

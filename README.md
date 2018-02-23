@@ -12,6 +12,8 @@
 
 * [ Angular ][ TypeScript ] RxJS Operators Dashboard: ([repo](https://github.com/getDanArias/RxJS-Operators))([demo](https://getdanarias.github.io/RxJS-Operators/))
 
+* [ NodeJS ][ JavaScript ] Created a leaderboard for a Yahtzee game using serverless endpoints from Webtask.io ([demo](https://getdanarias.github.io/yahtzee/))([code](https://gist.github.com/getDanArias/dad7fa398b065b590ba412bce366397e))
+
 * [ Go ] [Tic Tac Go!](https://github.com/developergenome/dan-lab/blob/master/experiments/go/tictactoe/main.go): CLI Tic Tac Toe game written in Go.  
 
 
